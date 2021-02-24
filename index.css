@@ -229,7 +229,6 @@
         #project #all a {
             color: #20738D;
             word-wrap: break-word;
-            /* -webkit-transition: color 0.1s ease-in, background 0.1s ease-in; */
             transition: color 0.1s ease-in, background 0.1s ease-in;
             text-decoration: none;
         }
@@ -393,15 +392,15 @@
         }
         
         .single-box:nth-child(1) .img-area {
-            background-image: url(../images/ml.jpg);
+            background-image: url(ml.jpg);
         }
         
         .single-box:nth-child(2) .img-area {
-            background-image: url(../images/clean.jpg);
+            background-image: url(clean.jpg);
         }
         
         .single-box:nth-child(3) .img-area {
-            background-image: url(../images/wd.jpg);
+            background-image: url(wd.jpg);
         }
         
         .section-headingg {
